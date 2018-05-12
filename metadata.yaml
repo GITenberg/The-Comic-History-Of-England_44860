@@ -1,0 +1,51 @@
+_repo: The-Comic-History-Of-England_44860
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: À Beckett, Gilbert Abbott
+    aliases:
+    - A'Beckett, Gilbert
+    - A Beckett, Gilbert Abbott
+    - Beckett, Gilbert Abbott À
+    - À Beckett, G. A. (Gilbert Abbott)
+    birthdate: 1811
+    deathdate: 1856
+    gutenberg_agent_id: '42956'
+    url: http://www.gutenberg.org/2009/agents/42956
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Abbott_%C3%A0_Beckett
+description: A'Beckett and Leech were original contributors to "Punch, or the London
+  Charivari" magazine, established 1841. It became the famous "Punch" magazine and
+  remained in publication to 2002. A'Beckett also wrote editorials for a similar concept
+  magazine, "Figaro in London" that ceased publication in 1839. "In commencing this
+  work, the object of the Author was, as he stated in the Prospectus, to blend amusement
+  with instruction, by serving up, in as palatable a shape as he could, the facts
+  of English History. He pledged himself not to sacrifice the substance to the seasoning;
+  and though he has certainly been a little free in the use of his sauce, he hopes
+  that he has not produced a mere hash on the present occasion. His object has been
+  to furnish something which may be allowed to take its place as a standing at the
+  library table, and which, though light, may not be found devoid of nutriment."--Preface.
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Humor'
+- !lcc 'DA'
+title: The Comic History Of England
+url: http://www.gutenberg.org/ebooks/44860
